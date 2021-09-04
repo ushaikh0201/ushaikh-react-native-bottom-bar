@@ -1,0 +1,70 @@
+{
+  "_from": "ushaikh-react-native-bottom-bar@^1.0.5",
+  "_id": "ushaikh-react-native-bottom-bar@1.0.5",
+  "_inBundle": false,
+  "_integrity": "sha512-K0jF8jjYvgWz+DOvWL/HSDWrYX8SQohpaKj1gxYbJV8UeD6CJNy661Z/ybzHD9Yu6XjmhQi+JPbV00MdCXaM4w==",
+  "_location": "/ushaikh-react-native-bottom-bar",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "range",
+    "registry": true,
+    "raw": "ushaikh-react-native-bottom-bar@^1.0.5",
+    "name": "ushaikh-react-native-bottom-bar",
+    "escapedName": "ushaikh-react-native-bottom-bar",
+    "rawSpec": "^1.0.5",
+    "saveSpec": null,
+    "fetchSpec": "^1.0.5"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/ushaikh-react-native-bottom-bar/-/ushaikh-react-native-bottom-bar-1.0.5.tgz",
+  "_shasum": "c057cdc43b42a8100a6f7d9566c3c4fe030b6122",
+  "_spec": "ushaikh-react-native-bottom-bar@^1.0.5",
+  "_where": "D:\\Clients\\Upworks\\Shailesh - Nepal\\mobile-app\\astro-final-app",
+  "author": {
+    "name": "Hoa Phan",
+    "email": "hoaphantn7604@gmail.com"
+  },
+  "bugs": {
+    "url": "https://github.com/hoaphantn7604/ushaikh-react-native-bottom-bar/issues"
+  },
+  "bundleDependencies": false,
+  "dependencies": {
+    "d3-shape": "^2.1.0"
+  },
+  "deprecated": false,
+  "description": "A high performance, beautiful and fully customizable curved bottom navigation bar for React Native.",
+  "devDependencies": {
+    "react": "^16.9.0",
+    "react-native": "^0.61.5"
+  },
+  "homepage": "https://github.com/hoaphantn7604/ushaikh-react-native-bottom-bar#readme",
+  "keywords": [
+    "react-native",
+    "elements",
+    "components",
+    "curved",
+    "bottom",
+    "tab-bar",
+    "tabbar"
+  ],
+  "license": "MIT",
+  "licenseFilename": "LICENSE",
+  "main": "index.ts",
+  "name": "ushaikh-react-native-bottom-bar",
+  "peerDependencies": {
+    "react": ">=16.8.1",
+    "react-native": ">=0.60.0-rc.0 <1.0.x"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hoaphantn7604/ushaikh-react-native-bottom-bar.git",
+    "baseUrl": "https://github.com/hoaphantn7604/ushaikh-react-native-bottom-bar"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "title": "React Native Curved Bottom Bar",
+  "version": "1.0.5"
+}
